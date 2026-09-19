@@ -40,7 +40,7 @@
 <table>
 <tr>
 
-<td width="60%" valign="top">
+<td width="60%" >
 
 I'm **Om Khokad**, a Computer Science Engineering graduate passionate about building practical software applications and solving real-world problems through technology.
 
@@ -52,7 +52,7 @@ I believe in **learning by building** and continuously improving my software dev
 
 </td>
 
-<td width="40%" valign="top">
+<td width="40%" >
 
 
 🎓 B.Tech CSE
@@ -82,7 +82,7 @@ software engineering skills.
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%">
 
 <h2>👨‍💼 Employee Management System</h2>
 
@@ -115,7 +115,7 @@ authentication, authorization and role-based access.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
 <h2>📋 Task Management System</h2>
 
@@ -153,7 +153,7 @@ software development internship.
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%">
 
 <h2>🔎 LinkedIn Profile Scraper</h2>
 
@@ -181,7 +181,7 @@ publicly available profile information.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" >
 
 <h2>🚀 More Projects</h2>
 
