@@ -40,7 +40,7 @@
 
 <table>
 <tr>
-
+<td width="60%">
 
 
 I'm **Om Khokad**, a Computer Science Engineering graduate passionate about building practical software applications and solving real-world problems through technology.
@@ -49,6 +49,9 @@ I primarily work with **Java, PHP, Web Development, Spring Boot, REST APIs, SQL 
 I believe in **learning by building** and continuously improving my software development skills through real-world projects.
 
 </td>
+<td width="40%">
+
+```text
 🎓 B.Tech CSE
 💻 Software Developer
 ☕ Java
