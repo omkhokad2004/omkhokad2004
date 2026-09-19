@@ -79,7 +79,7 @@ A backend application for managing employee records with authentication, authori
 - RESTful APIs
 - Postman API testing
 
-### 📋 Web-Based Task Management System
+### 📋 Task Management Project
 
 **PHP · MySQL · HTML · CSS · JavaScript**
 
