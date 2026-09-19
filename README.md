@@ -27,8 +27,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=omkhokad2004&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" />
 
-</div>
-<img src="https://komarev.com/ghpvc/?username=omkhokad2004&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge"/>
+
 
 </div>
 
