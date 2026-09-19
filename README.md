@@ -6,7 +6,7 @@
 
 ### 💻 Software Developer · Java · Spring Boot · Backend Development
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Java+Developer;Spring+Boot+Developer;Backend+Developer;REST+API+Developer;Always+Learning+and+Building" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Java+Developer;Spring+Boot+Developer;Backend+Developer;REST+API+Developer;Transforming+challenges+into+software+solutions." alt="Typing animation" />
 
 <p>
   <a href="https://github.com/omkhokad2004">
