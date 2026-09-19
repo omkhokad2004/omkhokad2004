@@ -9,20 +9,25 @@
 
 <br><br>
 
+<div align="center">
+
 <a href="https://github.com/omkhokad2004">
-<img src="https://img.shields.io/badge/GitHub-Om%20Khokad-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-OM%20KHOKAD-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/om-khokad/">
-<img src="https://img.shields.io/badge/LinkedIn-Om%20Khokad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-OM%20KHOKAD-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:omkhokad2004@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
+<img src="https://komarev.com/ghpvc/?username=omkhokad2004&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" />
+
+</div>
 <img src="https://komarev.com/ghpvc/?username=omkhokad2004&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge"/>
 
 </div>
