@@ -41,7 +41,7 @@
 <table>
 <tr>
 
-<td width="60%">
+
 
 I'm **Om Khokad**, a Computer Science Engineering graduate passionate about building practical software applications and solving real-world problems through technology.
 During my Internship as a Software Developement Intern I mainly focused on PHP, HTML, CSS and JavaScript and developed web based application like Linkedin scrapper.
@@ -51,7 +51,6 @@ I believe in **learning by building** and continuously improving my software dev
 
 </td>
 
-<td width="40%">
 
 ```text
 🎓 B.Tech CSE
@@ -75,9 +74,5 @@ I believe in **learning by building** and continuously improving my software dev
 🧩 DSA
 
 🚀 Backend Development
-
-
-
-
-🚀 Backend Development
+🚀 Backend Dev
 🚀 Backend Development
