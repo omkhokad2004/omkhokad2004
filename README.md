@@ -3,6 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=180&section=header&text=Om%20Khokad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
+<div align="center">
 <h2>💻 Software Developer • Java • Spring Boot • Backend Development</h2>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Java+Developer;Spring+Boot+Developer;Backend+Developer;REST+API+Developer;Full+Stack+Learner;Building+%7C+Learning+%7C+Improving" />
