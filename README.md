@@ -33,12 +33,9 @@
 </div>
 
 ---
-
-## 👋 About Me
-
-## 👋 About Me
-
 <div align="center">
+
+<h1>👨‍💻 About Me</h1>
 
 <table>
 <tr>
@@ -47,9 +44,9 @@
 
 I'm **Om Khokad**, a Computer Science Engineering graduate passionate about building practical software applications and solving real-world problems through technology.
 
-During my internship as a **Software Development Intern**, I mainly worked with **PHP, HTML, CSS and JavaScript** and developed web-based applications such as a LinkedIn profile scraper.
+During my Internship as a Software Development Intern I mainly focused on PHP, HTML, CSS and JavaScript and developed web based application like LinkedIn scraper.
 
-I primarily work with **Java, PHP, Web Development, Spring Boot, REST APIs, SQL, JavaScript and Backend Development**, while also exploring frontend and full-stack technologies.
+I primarily work with **Java, PHP, Web Development, Spring Boot, REST APIs, SQL, JavaScript and backend development**, while also exploring frontend and full-stack technologies.
 
 I believe in **learning by building** and continuously improving my software development skills through real-world projects.
 
@@ -57,27 +54,163 @@ I believe in **learning by building** and continuously improving my software dev
 
 <td width="40%" valign="top">
 
-```text
+
 🎓 B.Tech CSE
-
 💻 Software Developer
-
 ☕ Java
-
 ⚙️ Spring Boot
-
 🌐 REST APIs
-
 🗄️ MySQL
-
 🐘 PHP
-
 🟨 JavaScript
-
 🌐 Web Development
-
 🧩 DSA
-
 🚀 Backend Development
 
+
+<div align="center">
+
+<h1>🚀 Featured Projects</h1>
+
+<p>
+Here are some of the projects I've built while developing my
+software engineering skills.
+</p>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>👨‍💼 Employee Management System</h2>
+
+<p>
+<b>Java • Spring Boot • MySQL • JWT • REST API</b>
+</p>
+
+<p>
+Backend application for managing employee records with
+authentication, authorization and role-based access.
+</p>
+
+<h3>✨ Features</h3>
+
+<p align="left">
+🔹 Employee CRUD operations<br>
+🔹 JWT authentication<br>
+🔹 Role-based authorization<br>
+🔹 Pagination<br>
+🔹 MySQL database<br>
+🔹 RESTful APIs<br>
+🔹 Postman API testing
+</p>
+
+<br>
+
+<a href="https://github.com/omkhokad2004/Zest_Employee_Management_System">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>📋 Task Management System</h2>
+
+<p>
+<b>PHP • MySQL • HTML • CSS • JavaScript</b>
+</p>
+
+<p>
+Web-based task management system developed during my
+software development internship.
+</p>
+
+<h3>✨ Features</h3>
+
+<p align="left">
+🔹 Admin & Manager roles<br>
+🔹 Team Leader & Intern roles<br>
+🔹 Task assignment & tracking<br>
+🔹 Task deadlines & status<br>
+🔹 Leave management<br>
+🔹 Meeting management<br>
+🔹 Performance tracking<br>
+🔹 User management<br>
+🔹 Authentication
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>🔎 LinkedIn Profile Scraper</h2>
+
+<p>
+<b>Python • Web Scraping</b>
+</p>
+
+<p>
+Python-based project for extracting and processing
+publicly available profile information.
+</p>
+
+<h3>✨ Features</h3>
+
+<p align="left">
+🔹 Profile data extraction<br>
+🔹 Profile information processing<br>
+🔹 Web scraping<br>
+🔹 Structured data handling
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🚀 More Projects</h2>
+
+<p>
+I'm continuously building new projects to improve my
+development and problem-solving skills.
+</p>
+
+<h3>🔨 Currently Exploring</h3>
+
+<p align="left">
+☕ Java & Spring Boot<br>
+⚙️ REST API Development<br>
+🔐 Spring Security & JWT<br>
+🗄️ SQL & Database Design<br>
+🧩 Data Structures & Algorithms<br>
+🌐 Full-Stack Development
+</p>
+
+<br>
+
+<a href="https://github.com/omkhokad2004?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
