@@ -68,7 +68,87 @@ I believe in **learning by building** and continuously improving my software dev
 🌐 Web Development
 🧩 DSA
 🚀 Backend Development
+</div>
+<div align="center">
 
+<h1>🚀 Featured Projects</h1>
+
+<p>Here are some of the projects I've built while developing my software engineering skills.</p>
+
+</div>
+
+<br>
+
+---
+
+## 👨‍💼 Employee Management System
+
+**Java • Spring Boot • MySQL • JWT • REST API**
+
+Backend application for managing employee records with authentication, authorization and role-based access.
+
+### ✨ Features
+
+- 🔹 Employee CRUD operations
+- 🔹 JWT authentication
+- 🔹 Role-based authorization
+- 🔹 Pagination
+- 🔹 MySQL database
+- 🔹 RESTful APIs
+- 🔹 Postman API testing
+
+<p>
+<a href="https://github.com/omkhokad2004/Zest_Employee_Management_System">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+</p>
+
+---
+
+## 📋 Web-Based Task Management System
+
+**PHP • MySQL • HTML • CSS • JavaScript**
+
+A web-based task management application developed during my Software Development Internship.
+
+### ✨ Features
+
+- 🔹 Admin, Manager, Team Leader and Intern roles
+- 🔹 Task assignment and tracking
+- 🔹 Task deadlines and status management
+- 🔹 Leave management
+- 🔹 Meeting management
+- 🔹 Performance tracking
+- 🔹 User management
+- 🔹 Authentication and authorization
+
+---
+
+## 🔎 LinkedIn Profile Scraper
+
+**Python • Web Scraping • HTML • CSS**
+
+A web scraping application developed to extract and process LinkedIn profile information.
+
+### ✨ Features
+
+- 🔹 Profile data extraction
+- 🔹 Web scraping
+- 🔹 Data processing
+- 🔹 Structured profile information
+- 🔹 Simple web interface
+
+---
+
+## 🚀 More Projects
+
+I'm continuously working on new projects and exploring technologies related to **Java, Spring Boot, backend development, REST APIs and full-stack development**.
+
+<p>
+<a href="https://github.com/omkhokad2004?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
