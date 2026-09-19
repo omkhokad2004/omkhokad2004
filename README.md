@@ -10,20 +10,19 @@ https://www.github.com/omkhokad2004  https://www.linkedin.com/in/om-khokad/  omk
               PROFILE VIEWS
 
 ────────────────────────────────────────────
-
-                 👋 About Me
+👋 About Me
 
       Your professional introduction
 
 ────────────────────────────────────────────
 
-                🛠️ Tech Stack
+   🛠️ Tech Stack
 
     Java   Spring   React   MySQL   Git
 
 ────────────────────────────────────────────
 
-             🚀 Featured Projects
+  🚀 Featured Projects
 
      👨‍💼 Employee Management System
 
@@ -33,18 +32,7 @@ https://www.github.com/omkhokad2004  https://www.linkedin.com/in/om-khokad/  omk
 
 ────────────────────────────────────────────
 
-             📊 GitHub Statistics
-
-         GitHub Stats | Languages
-
-────────────────────────────────────────────
-
-               🔥 GitHub Streak
-
-────────────────────────────────────────────
-
-             🌱 Currently Learning
-
+  
 ────────────────────────────────────────────
 
                 📫 Connect With Me
