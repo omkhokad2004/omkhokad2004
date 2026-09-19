@@ -53,16 +53,5 @@ I believe in **learning by building** and continuously improving my software dev
 
 
 ```text
-🎓 B.Tech CSE
-
-💻 Software Developer
-
-☕ Java
-
-⚙️ Spring Boot
-
-🌐 REST APIs
-
-
-
+🎓 B.Tec
 🚀 Backend Development
