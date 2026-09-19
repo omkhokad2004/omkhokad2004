@@ -1,16 +1,50 @@
-## Hi there 👋
 
-<!--
-**omkhokad2004/omkhokad2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+             👋 HI, I'M OM KHOKAD
 
-Here are some ideas to get you started:
+     Software Developer • Java • Spring Boot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+       [animated typing text]
+
+ github.com/omkhokad2004  https://www.linkedin.com/in/om-khokad/  omkhokad2004@gmail.com
+
+              PROFILE VIEWS
+
+────────────────────────────────────────────
+
+                 👋 About Me
+
+      Your professional introduction
+
+────────────────────────────────────────────
+
+                🛠️ Tech Stack
+
+    Java   Spring   React   MySQL   Git
+
+────────────────────────────────────────────
+
+             🚀 Featured Projects
+
+     👨‍💼 Employee Management System
+
+     📋 Task Management System
+
+     🔎 Profile Scraper
+
+────────────────────────────────────────────
+
+             📊 GitHub Statistics
+
+         GitHub Stats | Languages
+
+────────────────────────────────────────────
+
+               🔥 GitHub Streak
+
+────────────────────────────────────────────
+
+             🌱 Currently Learning
+
+────────────────────────────────────────────
+
+                📫 Connect With Me
