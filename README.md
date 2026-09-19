@@ -5,7 +5,7 @@
 
        [animated typing text]
 
- github.com/omkhokad2004  https://www.linkedin.com/in/om-khokad/  omkhokad2004@gmail.com
+https://www.github.com/omkhokad2004  https://www.linkedin.com/in/om-khokad/  omkhokad2004@gmail.com
 
               PROFILE VIEWS
 
