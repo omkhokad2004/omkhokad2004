@@ -63,16 +63,6 @@ I believe in **learning by building** and continuously improving my software dev
 
 🌐 REST APIs
 
-🗄️ MySQL
 
-🐘 PHP
 
-🟨 JavaScript
-
-🌐 Web Development
-
-🧩 DSA
-
-🚀 Backend Development
-🚀 Backend Dev
 🚀 Backend Development
