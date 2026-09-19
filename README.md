@@ -1,5 +1,5 @@
 
-            <div align="center">
+            
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=180&section=header&text=Om%20Khokad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
@@ -39,8 +39,8 @@
 <td width="60%">
 
 I'm **Om Khokad**, a Computer Science Engineering graduate passionate about building practical software applications and solving real-world problems through technology.
-
-I primarily work with **Java, Spring Boot, REST APIs, SQL and backend development**, while also exploring frontend and full-stack technologies.
+During my Internship as a Software Developement Intern I mainly focused on PHP, HTML, CSS and JavaScript and developed web based application like Linkedin scrapper.
+I primarily work with **Java, PHP, Web Development, Spring Boot, REST APIs, SQL , JavaScript and backend development**, while also exploring frontend and full-stack technologies.
 
 I believe in **learning by building** and continuously improving my software development skills through real-world projects.
 
