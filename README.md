@@ -61,6 +61,13 @@ I believe in **learning by building** and continuously improving my software dev
 
 🗄️ MySQL
 
+🐘 PHP
+
+🟨 JavaScript
+
+🌐 Web Development
+
 🧩 DSA
 
+🚀 Backend Development
 🚀 Backend Development
