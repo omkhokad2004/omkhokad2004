@@ -46,9 +46,19 @@
 I'm **Om Khokad**, a Computer Science Engineering graduate passionate about building practical software applications and solving real-world problems through technology.
 During my Internship as a Software Developement Intern I mainly focused on PHP, HTML, CSS and JavaScript and developed web based application like Linkedin scrapper.
 I primarily work with **Java, PHP, Web Development, Spring Boot, REST APIs, SQL , JavaScript and backend development**, while also exploring frontend and full-stack technologies.
-
 I believe in **learning by building** and continuously improving my software development skills through real-world projects.
 
 </td>
+🎓 B.Tech CSE
+💻 Software Developer
+☕ Java
+⚙️ Spring Boot
+🌐 REST APIs
+🗄️ MySQL
+🐘 PHP
+🟨 JavaScript
+🌐 Web Development
+🧩 DSA
+🚀 Backend Development
 
 
