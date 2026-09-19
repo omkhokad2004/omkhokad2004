@@ -52,6 +52,3 @@ I believe in **learning by building** and continuously improving my software dev
 </td>
 
 
-```text
-🎓 B.Tec
-🚀 Backend Development
