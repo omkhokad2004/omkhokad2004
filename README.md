@@ -69,6 +69,7 @@ I believe in **learning by building** and continuously improving my software dev
 🧩 DSA
 🚀 Backend Development
 </div>
+</tr>
 <div align="center">
 
 <h1>🚀 Featured Projects</h1>
